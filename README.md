@@ -1,0 +1,2 @@
+# DotNetCore
+Công nghệ .NET
